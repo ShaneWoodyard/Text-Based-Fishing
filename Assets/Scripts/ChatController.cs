@@ -312,6 +312,7 @@ public class ChatController : MonoBehaviour {
 					PlayerPrefs.DeleteAll();
 					TMP_ChatOutput.text += "\nYour game has been reset!\n";
 					hasName = false;
+					doingSomething = false;
 					TMP_ChatOutput.text += "\nWelcome To Text Based Fishing!\n\nWhat Is Your Name?\n";
 					break;
 				case "No": case "no": case "N": case "n":
