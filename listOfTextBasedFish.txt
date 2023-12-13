@@ -1,0 +1,105 @@
+Array Index Sheet
+
+Trash Index
+0 = aluminum can
+1 = stick
+2 = nasty tire
+
+Fish Index
+0 = smallmouth bass
+1 = largemouth bass
+2 = bluegill
+3 = spotted bass
+4 = black crappie
+5 = redbreast sunfish
+6 = rock bass
+7 = striped bass
+8 = white bass
+9 = white perch
+10 = yellow perch
+11 = walleye
+12 = chain pickerel
+13 = northern pike
+14 = brook trout
+15 = brown trout
+16 = rainbow trout
+17 = blue catfish
+18 = channel catfish
+19 = carp
+20 = white crappie
+21 = green sunfish
+22 = flathead catfish
+23 = hybrid striped bass
+24 = longnose gar
+
+Legendary Fish Index
+0 = blue catfish
+1 = carp
+2 = smallmouth bass
+3 = largemouth bass
+4 = striped bass
+5 = white bass
+6 = chain pickerel
+7 = northern pike
+8 = rainbow trout
+9 = channel catfish
+10 = flathead catfish
+11 = hybrid striped bass
+12 = longnose gar
+
+
+
+Tournament Points Sheet
+
+Trash
+AluminumCan
+Stick
+NastyTire
+
+1 point fish
+Bluegill
+redbreast sunfish
+green sunfish
+
+2 point fish
+Smallmouth Bass
+black crappie
+rock bass
+yellow perch
+walleye
+white crappie
+
+3 point fish
+Largemouth Bass
+spotted bass
+striped bass
+white bass
+white perch
+chain pickerel
+northern pike
+brook trout
+brown trout
+rainbow trout
+blue catfish
+channel catfish
+carp
+flathead catfish
+hybrid striped bass
+longnose gar
+
+4 point leg fish
+Blue catfish
+carp
+smallmouth bass
+largemouth bass
+white bass
+channel catfish
+flathead catfish
+hybrid striped bass
+
+5 point leg fish
+striped bass
+chain pickerel
+northern pike
+rainbow trout
+longnose gar
